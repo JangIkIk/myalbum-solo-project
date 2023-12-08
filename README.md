@@ -12,7 +12,7 @@ FlowChart: https://www.figma.com/file/ocP2MqaPLlDJKUpMmj21s0/MyAlbum-FlowChart?t
 ---
 화면정의서: https://www.figma.com/file/Q2UkE20I4mbX20GKs4pRwC/MyAlbum-ScreenDefinition?type=design&mode=design&t=iH21vMXpQA6fbrMA-0
 ---
-ERD: https://lucid.app/lucidchart/218ef172-23a3-4c15-a416-b98a83a8be60/edit?invitationId=inv_356250cb-9939-48ce-921a-78a0b9fe2fe0&page=0_0#
+ERD: https://dbdiagram.io/d/6572f2d756d8064ca0a521f4
 ---
 
 
