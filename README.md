@@ -7,6 +7,8 @@
 
 
 
+## 구분
+
 ---
 FlowChart: https://www.figma.com/file/ocP2MqaPLlDJKUpMmj21s0/MyAlbum-FlowChart?type=whiteboard&t=iH21vMXpQA6fbrMA-0
 ---
@@ -14,5 +16,11 @@ FlowChart: https://www.figma.com/file/ocP2MqaPLlDJKUpMmj21s0/MyAlbum-FlowChart?t
 ---
 ERD: https://dbdiagram.io/d/6572f2d756d8064ca0a521f4
 ---
+
+로고만든곳: https://www.brandcrowd.com/s/logo-maker?code=25OFFSEM&gad_source=1&gclid=CjwKCAiAvdCrBhBREiwAX6-6Unz-IIv4wgACbbL4kBwPfvD0wmB0U4j7couOAYPggGHpcYxCDbEUDhoCkcEQAvD_BwE
+
+tailwind:
+https://v2.tailwindcss.com/
+https://tailwindcss.com/
 
 
