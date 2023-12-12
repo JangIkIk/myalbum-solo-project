@@ -2,30 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 전체적인 초기화 및 전역 설정*/
-@layer base {
-  html{
-    margin: 0;
-    padding: 0;
-    font-size: 10px;
-  }
-  body {
-    margin: 0;
-    padding: 0;
-  }
-
-  * {
-    box-sizing: border-box;
-  }
-}
-
-/* 모달, 버튼 등 하나의 묶음 컴포넌트*/
-@layer components {
-}
-
-/* 사용자정의 클래스*/
-@layer utilities {
-  .router-button {
-    @apply bg-button-default p-[5px] mb-[5px] text-center text-text-default;
-  }
-}
