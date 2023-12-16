@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="ko">
       <body>
-        <div className="flex max-w-screen-xl m-auto h-screen">
+        <div className="flex max-w-screen-xl m-auto min-h-full">
           <aside className="bg-layout-left w-[150px] flex flex-col items-center">
             <div className="p-4">
               <Link href={"/"}>
